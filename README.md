@@ -1,6 +1,6 @@
 <h4></h4>
 <h4 align="center">
-    <img src=".github/logo.png" alt="EColeta">
+    <img src=".github/logo.png" alt="EColeta" style="width=100">
         <br>
         <b>Your waste collection marketplace </b>
     </img>
