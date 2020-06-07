@@ -44,7 +44,7 @@
             <a href="https://expo.io/">Expo</a> 
         </li>
         <li>
-            <a href="https://reactnative.dev/">React Ntive</a> 
+            <a href="https://reactnative.dev/">React Native</a> 
         </li>
     </ul>
 </ul>
