@@ -1,5 +1,5 @@
 <h4></h4>
-<center>
+<h4 align="center">
     <img src=".github/logo.png" alt="EColeta">
         <br>
         <b>Your waste collection marketplace </b>
@@ -10,7 +10,7 @@
     <h4></h4>
     <h2>Next Level Week</h1>
     <h4>Project created in next level week</h3>
-</center>
+</h4>
 
 <br />
 <br />
@@ -53,11 +53,11 @@
 <br />
 <br />
 
-<center>
+<div align="center">
     <h2>Preview</h2>
-        <img src=".github/ecoleta-web.png" alt="" style="width: 400px">
-        <img src=".github/ecoleta-mobile.png" alt="" style="width: 300px;">
-</center>
+        <img src=".github/ecoleta-web.png" alt="" style="width: 200px">
+        <img src=".github/ecoleta-mobile.png" alt="" style="width: 100px;">
+</div>
 
 <br />
 <br />
