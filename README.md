@@ -55,7 +55,7 @@
 
 <div align="center">
     <h2>Preview</h2>
-    <div style="display: flex;" markdown="1">
+    <div display="flex" markdown="1">
         <img src=".github/ecoleta-web.png" alt="" width="700px">
         <img src=".github/ecoleta-mobile.png" alt="" width="400px">
     </div>
