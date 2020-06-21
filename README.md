@@ -55,8 +55,10 @@
 
 <div align="center">
     <h2>Preview</h2>
+    <div style="display: flex">
         <img src=".github/ecoleta-web.png" alt="" width="700px">
         <img src=".github/ecoleta-mobile.png" alt="" width="400px">
+    </div>
 </div>
 
 <br />
